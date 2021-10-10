@@ -5,6 +5,11 @@ Robbin Mwangi Githimbo
 
 ## Description
 
+## Author
+Robbin Mwangi Githimbo
+
+# Description
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
 ## Development server
@@ -30,3 +35,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Live Site
+Go to  [live](robbingit.github.io/best-quotes/) site
+
+## Licence
+This project is under the  [MIT](LICENSE) licence:<br>
+
+Copyright (c) 2021 Robbin Mwangi Githimbo
