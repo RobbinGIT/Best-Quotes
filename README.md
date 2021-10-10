@@ -45,3 +45,6 @@ Go to  [live](robbingit.github.io/best-quotes/) site
 This project is under the  [MIT](LICENSE) licence:<br>
 
 Copyright (c) 2021 Robbin Mwangi Githimbo
+
+## support
+
