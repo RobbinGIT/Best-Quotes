@@ -42,9 +42,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Go to  [live](robbingit.github.io/best-quotes/) site
 
 ## Licence
+
 This project is under the  [MIT](LICENSE) licence:<br>
 
 Copyright (c) 2021 Robbin Mwangi Githimbo
 
 ## support
-Email robbinmwas@gmail.com (+254704408124)
+
+Email robbinmwas@gmail.com Phone number (+254704408124)
