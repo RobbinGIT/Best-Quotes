@@ -19,13 +19,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 `
 
-### Setup/Installation 
-To acces this project, you need to clone it using these steps;
-1. Open your terminal command prompt for windows.
-2. Change the current working directory to the location where you want the cloned directory.
-3. Type `$ git clone https://github.com/RobbinGIT/Top-Pizzas.git`
-4. `Enter` to create your local clone.
-    * This will clone the repositoty into your local folder in your laptop.
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ### Technologies Used
 
