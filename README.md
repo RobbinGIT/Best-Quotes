@@ -52,8 +52,11 @@ Go to  [live]( https://robbingit.github.io/Best-Quotes/ ) site.
 ### Support
 For support reach me via Email(robbingithimbo@gmail.com)
 
+Phone number 0704408124
+
 ### Licence
 This project is under the  [MIT](LICENSE) licence:<br>
 
-Copyright (c) 2021 Robbin Mwangi Githimbo.
+Copyright (c) 2021 Robbin Mwangi Githimbo. 
+
 
