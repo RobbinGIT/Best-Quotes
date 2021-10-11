@@ -1,5 +1,5 @@
 # Pizza Fast food website
-This is a pizza web application where customers order different sizes of pizzas with one or more toppings.
+An application where users can create quotes and have those quotes voted on whether they are terrible or are inspirational
 
 ## Author
 Robbin Mwangi Githimbo
