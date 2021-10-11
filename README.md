@@ -50,7 +50,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Go to  [live]( https://robbingit.github.io/Best-Quotes/ ) site.
 
 ### Support
-For support reach me via Email(robbingithimbo@gmail.com)
+For support reach me via Email (robbingithimbo@gmail.com)
 
 Phone number 0704408124
 
