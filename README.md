@@ -40,7 +40,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
   HTML5
   
   CSS
+  
   [Angular CLI]
+  
   Bootstrap
 
 ## Further help
