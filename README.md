@@ -8,7 +8,7 @@ An application where users can create quotes and have those quotes voted on whet
 
 ## Author
 
-Robbin Mwangi Githimbo
+Robbin Mwangi
 
 ## Description and Requirements
 
