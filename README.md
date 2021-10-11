@@ -3,24 +3,21 @@
 ![Best-Quotes!](./src/assets/webpage.png)
 
 # Brainy Quotes
+
 An application where users can create quotes and have those quotes voted on whether they are terrible or are inspirational
 
 ## Author
+
 Robbin Mwangi Githimbo
 
 ## Description and Requirements
-In this web application customers order different sizes of pizzas with one or more toppings. Then there are able to choose wether they want their pizza delivered to their door step or not. 
 
-The following are requirements in order to continue....
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
-* Install a text editor on your computer (Preferably Visual studio code)
-* You must have git installed on your computer in order to use it.
-* Have working knowledge of the git commands and prerequisites.
-* You can run the following command to install git in you computer;
-   -  Open terminal for linux or command prompt for windows 
-   -  And Install git using this command:
-        `$ sudo apt install git-all`
-* You can see all steps by following this link `https://github.com/git-guides/install-git`
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+`
 
 ### Setup/Installation 
 To acces this project, you need to clone it using these steps;
